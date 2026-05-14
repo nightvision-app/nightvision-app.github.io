@@ -1,0 +1,10 @@
+# JetBrains IDEs (WebStorm, IntelliJ, PhpStorm, etc.)
+.idea/
+
+# macOS
+.DS_Store
+
+# Editor backups
+*~
+*.swp
+*.swo
