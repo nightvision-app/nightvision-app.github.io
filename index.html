@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Night Vision Apps for iPhone</title>
-    <meta name="description" content="Night vision apps for iPhone — Green Night and Pro Night.">
+    <meta name="description" content="Night vision apps for iPhone — Green Night and Pro Night. Turn your phone into a low-light tactical camera.">
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -24,7 +24,7 @@
         }
 
         .container {
-            max-width: 880px;
+            max-width: 960px;
             margin: 0 auto;
         }
 
@@ -45,14 +45,14 @@
         .tagline {
             font-size: clamp(1rem, 2.2vw, 1.2rem);
             color: #8fc28f;
-            max-width: 540px;
+            max-width: 560px;
             margin: 0 auto;
             line-height: 1.5;
         }
 
         .apps {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
             gap: 24px;
         }
 
@@ -62,6 +62,8 @@
             border-radius: 16px;
             padding: 32px 28px;
             transition: border-color 0.2s, transform 0.2s;
+            display: flex;
+            flex-direction: column;
         }
 
         .app:hover {
@@ -78,6 +80,7 @@
             padding: 4px 10px;
             border-radius: 999px;
             margin-bottom: 16px;
+            align-self: flex-start;
         }
 
         .badge-free {
@@ -90,6 +93,86 @@
             background: rgba(180, 240, 225, 0.12);
             color: #c8f5ea;
             border: 1px solid rgba(180, 240, 225, 0.4);
+        }
+
+        .app h2 {
+            font-size: 1.65rem;
+            font-weight: 600;
+            color: #c8f5c8;
+            margin-bottom: 4px;
+            letter-spacing: -0.01em;
+        }
+
+        .app-subtitle {
+            font-size: 0.95rem;
+            color: #6fa86f;
+            margin-bottom: 18px;
+            letter-spacing: 0.01em;
+        }
+
+        .app-promo {
+            font-size: 1.02rem;
+            color: #b8e0b8;
+            line-height: 1.55;
+            margin-bottom: 22px;
+            font-weight: 500;
+        }
+
+        .app-features {
+            list-style: none;
+            margin-bottom: 24px;
+            padding: 0;
+        }
+
+        .app-features li {
+            font-size: 0.93rem;
+            color: #9bc89b;
+            line-height: 1.5;
+            padding: 8px 0 8px 22px;
+            position: relative;
+            border-top: 1px solid rgba(80, 180, 80, 0.12);
+        }
+
+        .app-features li:first-child {
+            border-top: none;
+        }
+
+        .app-features li::before {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 15px;
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: #4ade4a;
+            box-shadow: 0 0 8px rgba(74, 222, 74, 0.6);
+        }
+
+        .app-link {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            font-size: 0.95rem;
+            font-weight: 500;
+            color: #000;
+            background: #4ade4a;
+            padding: 12px 20px;
+            border-radius: 10px;
+            text-decoration: none;
+            transition: background 0.2s, box-shadow 0.2s;
+            margin-top: auto;
+        }
+
+        .app-link:hover {
+            background: #6cf06c;
+            box-shadow: 0 0 20px rgba(74, 222, 74, 0.4);
+        }
+
+        .app-link svg {
+            width: 16px;
+            height: 16px;
         }
 
         .app-pro {
@@ -106,8 +189,22 @@
             text-shadow: 0 0 20px rgba(160, 240, 215, 0.45);
         }
 
-        .app-pro p {
+        .app-pro .app-subtitle {
+            color: #7ab8ac;
+        }
+
+        .app-pro .app-promo {
+            color: #c8e8de;
+        }
+
+        .app-pro .app-features li {
             color: #a8d4c8;
+            border-top-color: rgba(160, 230, 215, 0.15);
+        }
+
+        .app-pro .app-features li::before {
+            background: #b8f0e0;
+            box-shadow: 0 0 8px rgba(184, 240, 224, 0.7);
         }
 
         .app-pro .app-link {
@@ -120,49 +217,36 @@
             box-shadow: 0 0 22px rgba(160, 240, 215, 0.55);
         }
 
-        .app h2 {
-            font-size: 1.65rem;
+        .notes {
+            margin-top: 48px;
+            padding: 28px;
+            background: rgba(20, 30, 20, 0.5);
+            border: 1px solid rgba(80, 180, 80, 0.15);
+            border-radius: 14px;
+        }
+
+        .notes h3 {
+            font-size: 1.05rem;
+            color: #a8d8a8;
+            margin-bottom: 14px;
             font-weight: 600;
-            color: #c8f5c8;
-            margin-bottom: 12px;
-            letter-spacing: -0.01em;
+            letter-spacing: 0.01em;
         }
 
-        .app p {
-            font-size: 1rem;
-            color: #9bc89b;
-            line-height: 1.55;
-            margin-bottom: 24px;
+        .notes p {
+            font-size: 0.92rem;
+            color: #88a888;
+            line-height: 1.6;
+            margin-bottom: 10px;
         }
 
-        .app-link {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            font-size: 0.95rem;
-            font-weight: 500;
-            color: #000;
-            background: #4ade4a;
-            padding: 10px 20px;
-            border-radius: 10px;
-            text-decoration: none;
-            transition: background 0.2s, box-shadow 0.2s;
-            box-shadow: 0 0 0 rgba(74, 222, 74, 0);
-        }
-
-        .app-link:hover {
-            background: #6cf06c;
-            box-shadow: 0 0 20px rgba(74, 222, 74, 0.4);
-        }
-
-        .app-link svg {
-            width: 16px;
-            height: 16px;
+        .notes p:last-child {
+            margin-bottom: 0;
         }
 
         footer {
             text-align: center;
-            margin-top: 56px;
+            margin-top: 48px;
             font-size: 0.85rem;
             color: #5a8a5a;
         }
@@ -172,14 +256,21 @@
     <div class="container">
         <header>
             <h1>Night Vision Apps</h1>
-            <p class="tagline">Night vision apps for iPhone. See clearly in the dark.</p>
+            <p class="tagline">Turn your iPhone into a night vision device. See more in the dark, outdoors, at night.</p>
         </header>
 
         <div class="apps">
             <article class="app">
-                <span class="app-badge badge-free">Free</span>
+                <span class="app-badge badge-free">Free · No Ads</span>
                 <h2>Green Night</h2>
-                <p>Classic night vision with the iconic green tint. A simple and fast way to enhance your sight in the dark.</p>
+                <div class="app-subtitle">Real Low Light Tactical Cam</div>
+                <p class="app-promo">Turn your phone into a night vision device for low-light outdoor use. 100% free, no ads, no tracking.</p>
+                <ul class="app-features">
+                    <li>Classic green night vision look</li>
+                    <li>Pushes the camera to maximum exposure and sensitivity to gather more photons</li>
+                    <li>Built for outdoor use at night where some ambient light is present</li>
+                    <li>Lightweight and free — just open and look</li>
+                </ul>
                 <a class="app-link" href="https://apps.apple.com/ua/app/green-night-night-vision-app/id1616351140" target="_blank" rel="noopener">
                     Download on the App Store
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M17 7H8M17 7V16"/></svg>
@@ -189,13 +280,27 @@
             <article class="app app-pro">
                 <span class="app-badge badge-pro">Pro</span>
                 <h2>Pro Night</h2>
-                <p>Advanced version with extended night vision features. More modes, better control, and a sharper image in challenging conditions.</p>
+                <div class="app-subtitle">Night Vision Device (NVD)</div>
+                <p class="app-promo">A real night vision device in your smartphone. Real-time low-light enhancement powered by the phone's GPU.</p>
+                <ul class="app-features">
+                    <li>GPU-accelerated real-time image processing</li>
+                    <li>Photon accumulation for extra sensitivity in very low light</li>
+                    <li>White phosphor look with a cool teal tint, like modern NVGs</li>
+                    <li>More modes and finer control for challenging conditions</li>
+                </ul>
                 <a class="app-link" href="https://apps.apple.com/ua/app/pro-night-night-vision-app/id1638753363" target="_blank" rel="noopener">
                     Download on the App Store
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M17 7H8M17 7V16"/></svg>
                 </a>
             </article>
         </div>
+
+        <section class="notes">
+            <h3>How it works — and what to expect</h3>
+            <p>Both apps work around the physical limits of a smartphone camera. They collect as many photons as possible from the scene, which means the image may refresh slowly in very low light. That is not lag — that is the physics of night vision on a phone.</p>
+            <p>Image quality depends on your specific iPhone model and on how much ambient light is available. Use the apps outdoors at night where there is at least some light to amplify, such as a starry sky or moonlight.</p>
+            <p>Do not expect a visible image in complete darkness, like a windowless room — there are no photons to amplify. And do not use the apps in daylight or bright light, where the sensor will be oversaturated and the screen will go white.</p>
+        </section>
 
         <footer>
             © Night Vision Apps
