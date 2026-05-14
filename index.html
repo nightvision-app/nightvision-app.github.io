@@ -71,6 +71,28 @@
             transform: translateY(-2px);
         }
 
+        .app-header {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 18px;
+        }
+
+        .app-logo {
+            width: 72px;
+            height: 72px;
+            border-radius: 16px;
+            flex-shrink: 0;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+        }
+
+        .app-heading {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            min-width: 0;
+        }
+
         .app-badge {
             display: inline-block;
             font-size: 0.7rem;
@@ -99,14 +121,13 @@
             font-size: 1.65rem;
             font-weight: 600;
             color: #c8f5c8;
-            margin-bottom: 4px;
             letter-spacing: -0.01em;
+            line-height: 1.1;
         }
 
         .app-subtitle {
             font-size: 0.95rem;
             color: #6fa86f;
-            margin-bottom: 18px;
             letter-spacing: 0.01em;
         }
 
@@ -262,8 +283,13 @@
         <div class="apps">
             <article class="app">
                 <span class="app-badge badge-free">Free · No Ads</span>
-                <h2>Green Night</h2>
-                <div class="app-subtitle">Real Night Vision App</div>
+                <div class="app-header">
+                    <img class="app-logo" src="img/logos/1024green_night.png" alt="Green Night app icon" width="72" height="72">
+                    <div class="app-heading">
+                        <h2>Green Night</h2>
+                        <div class="app-subtitle">Real Night Vision App</div>
+                    </div>
+                </div>
                 <p class="app-promo">Turn your phone into a night vision device for low-light outdoor use. 100% free, no ads, no tracking.</p>
                 <ul class="app-features">
                     <li>Classic green night vision look</li>
@@ -279,8 +305,13 @@
 
             <article class="app app-pro">
                 <span class="app-badge badge-pro">Pro</span>
-                <h2>Pro Night</h2>
-                <div class="app-subtitle">Professional Night Vision App</div>
+                <div class="app-header">
+                    <img class="app-logo" src="img/logos/1024pro_ngiht.png" alt="Pro Night app icon" width="72" height="72">
+                    <div class="app-heading">
+                        <h2>Pro Night</h2>
+                        <div class="app-subtitle">Professional Night Vision App</div>
+                    </div>
+                </div>
                 <p class="app-promo">A real night vision device in your smartphone. Real-time low-light enhancement powered by the phone's GPU.</p>
                 <ul class="app-features">
                     <li>GPU-accelerated real-time image processing</li>
