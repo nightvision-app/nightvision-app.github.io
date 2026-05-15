@@ -21,8 +21,10 @@
         }, 250);
     }
 
-    document.querySelectorAll('.demos-grid img').forEach((img) => {
-        img.addEventListener('click', () => open(img.currentSrc || img.src, img.alt));
+    document.querySelectorAll('.demos-grid .demo').forEach((demo) => {
+        const img = demo.querySelector('img');
+        if (!img) return;
+        demo.addEventListener('click', () => open(img.currentSrc || img.src, img.alt));
     });
 
     lightbox.addEventListener('click', () => {

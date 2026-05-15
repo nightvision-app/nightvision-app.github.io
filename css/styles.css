@@ -280,36 +280,37 @@ h1 {
     }
 }
 
-.demos-grid img {
+/* Wrapper holds the transform. The <img> itself never gets transformed, so
+   Safari does not recreate its compositing layer on hover — which is what
+   was causing certain images to darken on hover. */
+.demo {
     display: block;
-    width: 100%;
-    height: auto;
     margin: 0 0 14px;
     border-radius: 10px;
     border: 1px solid rgba(80, 180, 80, 0.2);
+    overflow: hidden;
     transition: transform 0.25s, border-color 0.2s, box-shadow 0.25s;
     break-inside: avoid;
     cursor: zoom-in;
-    /* Keep image on its own GPU layer at rest so hover transform doesn't
-       trigger Safari to recreate the compositing layer — which can shift
-       wide-gamut (Display P3) iPhone photos through a darker color path. */
-    transform: translateZ(0);
-    will-change: transform;
-    backface-visibility: hidden;
-    -webkit-backface-visibility: hidden;
 }
 
-.demos-grid img:hover {
-    transform: translateZ(0) scale(1.015);
+.demo:hover {
+    transform: scale(1.015);
     border-color: rgba(120, 230, 120, 0.5);
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
 }
 
-.demos-group--pro .demos-grid img {
+.demos-grid img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.demos-group--pro .demo {
     border-color: rgba(160, 230, 215, 0.2);
 }
 
-.demos-group--pro .demos-grid img:hover {
+.demos-group--pro .demo:hover {
     border-color: rgba(200, 245, 230, 0.55);
 }
 
