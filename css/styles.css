@@ -403,9 +403,103 @@ body.lightbox-open {
     margin-bottom: 0;
 }
 
+.privacy {
+    margin-top: 56px;
+    padding: 32px;
+    background: rgba(20, 30, 20, 0.5);
+    border: 1px solid rgba(80, 180, 80, 0.15);
+    border-radius: 14px;
+    scroll-margin-top: 24px;
+}
+
+.privacy h2 {
+    font-size: 1.25rem;
+    color: #a8d8a8;
+    margin-bottom: 6px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+}
+
+.privacy .privacy-meta {
+    font-size: 0.8rem;
+    color: #5a8a5a;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 18px;
+}
+
+.privacy h3 {
+    font-size: 1rem;
+    color: #c8e8c8;
+    margin: 22px 0 10px;
+    font-weight: 600;
+}
+
+.privacy p,
+.privacy li {
+    font-size: 0.93rem;
+    color: #9bc89b;
+    line-height: 1.6;
+}
+
+.privacy p {
+    margin-bottom: 12px;
+}
+
+.privacy ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 12px;
+}
+
+.privacy ul li {
+    padding: 6px 0 6px 18px;
+    position: relative;
+}
+
+.privacy ul li::before {
+    content: "—";
+    position: absolute;
+    left: 0;
+    color: #6fa86f;
+}
+
+.privacy strong {
+    color: #c8e8c8;
+    font-weight: 600;
+}
+
+.privacy a {
+    color: #b8e8b8;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(120, 200, 120, 0.3);
+    transition: color 0.2s, border-color 0.2s;
+}
+
+.privacy a:hover {
+    color: #d4f5d4;
+    border-bottom-color: rgba(184, 232, 184, 0.7);
+}
+
 footer {
     text-align: center;
     margin-top: 48px;
     font-size: 0.85rem;
     color: #5a8a5a;
+}
+
+footer a {
+    color: #88b888;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(120, 200, 120, 0.25);
+    transition: color 0.2s, border-color 0.2s;
+}
+
+footer a:hover {
+    color: #b8e8b8;
+    border-bottom-color: rgba(184, 232, 184, 0.6);
+}
+
+footer .footer-links {
+    margin-bottom: 10px;
 }
