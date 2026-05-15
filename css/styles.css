@@ -256,40 +256,36 @@ h1 {
 }
 
 .demos-grid {
-    column-count: 3;
-    column-gap: 14px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
 }
 
 .demos-grid--cols-2 {
-    column-count: 2;
+    grid-template-columns: repeat(2, 1fr);
 }
 
 @media (max-width: 720px) {
     .demos-grid {
-        column-count: 2;
-    }
-    .demos-grid--cols-2 {
-        column-count: 2;
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 
 @media (max-width: 460px) {
     .demos-grid,
     .demos-grid--cols-2 {
-        column-count: 1;
+        grid-template-columns: 1fr;
     }
 }
 
-/* No transform anywhere on demos — Safari's compositing of webp images
-   inside CSS columns + scale() introduces color shifts (some images darken
-   on hover). Stick to non-compositing hover effects: border + outline glow. */
+/* No transform on hover — Safari's compositing of webp images with scale()
+   introduces color shifts that make some images darken on hover.
+   Stick to non-compositing hover effects: border-color + flat ring glow. */
 .demo {
     display: block;
-    margin: 0 0 14px;
     border-radius: 10px;
     border: 1px solid rgba(80, 180, 80, 0.2);
     transition: border-color 0.2s, box-shadow 0.2s;
-    break-inside: avoid;
     cursor: zoom-in;
     line-height: 0;
 }
