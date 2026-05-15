@@ -280,30 +280,30 @@ h1 {
     }
 }
 
-/* Wrapper holds the transform. The <img> itself never gets transformed, so
-   Safari does not recreate its compositing layer on hover — which is what
-   was causing certain images to darken on hover. */
+/* No transform anywhere on demos — Safari's compositing of webp images
+   inside CSS columns + scale() introduces color shifts (some images darken
+   on hover). Stick to non-compositing hover effects: border + outline glow. */
 .demo {
     display: block;
     margin: 0 0 14px;
     border-radius: 10px;
     border: 1px solid rgba(80, 180, 80, 0.2);
-    overflow: hidden;
-    transition: transform 0.25s, border-color 0.2s, box-shadow 0.25s;
+    transition: border-color 0.2s, box-shadow 0.2s;
     break-inside: avoid;
     cursor: zoom-in;
+    line-height: 0;
 }
 
 .demo:hover {
-    transform: scale(1.015);
-    border-color: rgba(120, 230, 120, 0.5);
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+    border-color: rgba(120, 230, 120, 0.55);
+    box-shadow: 0 0 0 3px rgba(74, 222, 74, 0.15);
 }
 
 .demos-grid img {
     display: block;
     width: 100%;
     height: auto;
+    border-radius: 9px;
 }
 
 .demos-group--pro .demo {
