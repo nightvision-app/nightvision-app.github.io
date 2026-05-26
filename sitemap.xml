@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://nightvision-app.github.io/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://nightvision-app.github.io/ar/"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://nightvision-app.github.io/bn/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://nightvision-app.github.io/ca/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nightvision-app.github.io/cs/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://nightvision-app.github.io/da/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://nightvision-app.github.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://nightvision-app.github.io/el/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nightvision-app.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://nightvision-app.github.io/fi/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://nightvision-app.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="gu" href="https://nightvision-app.github.io/gu/"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://nightvision-app.github.io/he/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://nightvision-app.github.io/hi/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://nightvision-app.github.io/hr/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://nightvision-app.github.io/hu/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://nightvision-app.github.io/id/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://nightvision-app.github.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nightvision-app.github.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="kn" href="https://nightvision-app.github.io/kn/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nightvision-app.github.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="ml" href="https://nightvision-app.github.io/ml/"/>
+    <xhtml:link rel="alternate" hreflang="mr" href="https://nightvision-app.github.io/mr/"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://nightvision-app.github.io/ms/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://nightvision-app.github.io/no/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://nightvision-app.github.io/nl/"/>
+    <xhtml:link rel="alternate" hreflang="or" href="https://nightvision-app.github.io/or/"/>
+    <xhtml:link rel="alternate" hreflang="pa" href="https://nightvision-app.github.io/pa/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://nightvision-app.github.io/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://nightvision-app.github.io/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://nightvision-app.github.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://nightvision-app.github.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://nightvision-app.github.io/sk/"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://nightvision-app.github.io/sl/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://nightvision-app.github.io/sv/"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://nightvision-app.github.io/ta/"/>
+    <xhtml:link rel="alternate" hreflang="te" href="https://nightvision-app.github.io/te/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://nightvision-app.github.io/th/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://nightvision-app.github.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://nightvision-app.github.io/ua/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://nightvision-app.github.io/ur/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://nightvision-app.github.io/vi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nightvision-app.github.io/zh-hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nightvision-app.github.io/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/ar/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://nightvision-app.github.io/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/bn/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://nightvision-app.github.io/bn/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/ca/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://nightvision-app.github.io/ca/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/cs/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nightvision-app.github.io/cs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/da/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://nightvision-app.github.io/da/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/de/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://nightvision-app.github.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/el/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://nightvision-app.github.io/el/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/es/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nightvision-app.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/fi/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://nightvision-app.github.io/fi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/fr/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://nightvision-app.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/gu/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="gu" href="https://nightvision-app.github.io/gu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/he/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://nightvision-app.github.io/he/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/hi/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://nightvision-app.github.io/hi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/hr/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://nightvision-app.github.io/hr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/hu/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://nightvision-app.github.io/hu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/id/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://nightvision-app.github.io/id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/it/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://nightvision-app.github.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/ja/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nightvision-app.github.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/kn/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="kn" href="https://nightvision-app.github.io/kn/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/ko/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nightvision-app.github.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/ml/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ml" href="https://nightvision-app.github.io/ml/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/mr/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="mr" href="https://nightvision-app.github.io/mr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/ms/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://nightvision-app.github.io/ms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/nl/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://nightvision-app.github.io/nl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/no/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://nightvision-app.github.io/no/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/or/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="or" href="https://nightvision-app.github.io/or/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/pa/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="pa" href="https://nightvision-app.github.io/pa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/pl/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://nightvision-app.github.io/pl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/pt/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://nightvision-app.github.io/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/ro/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://nightvision-app.github.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/ru/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://nightvision-app.github.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/sk/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://nightvision-app.github.io/sk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/sl/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://nightvision-app.github.io/sl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/sv/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://nightvision-app.github.io/sv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/ta/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://nightvision-app.github.io/ta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/te/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="te" href="https://nightvision-app.github.io/te/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/th/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://nightvision-app.github.io/th/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/tr/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://nightvision-app.github.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/ua/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://nightvision-app.github.io/ua/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/ur/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://nightvision-app.github.io/ur/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/vi/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://nightvision-app.github.io/vi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/zh-hans/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nightvision-app.github.io/zh-hans/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+  <url>
+    <loc>https://nightvision-app.github.io/zh-hant/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nightvision-app.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nightvision-app.github.io/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nightvision-app.github.io/"/>
+  </url>
+
+</urlset>
